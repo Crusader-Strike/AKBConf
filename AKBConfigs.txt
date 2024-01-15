@@ -906,3 +906,35 @@ vless://a9281288-3659-4eea-9044-58291062ab6f@lengwi4.chipkayin.shop:2087/?type=g
     
 🆔 @V2rayCollectorDonate
 🤖 @V2rayCollectorBot
+🚀 کانفیگ اهدایی جدید
+    
+vless://df22b18d-c37f-450b-aa9a-3c0622d8a3d1@g5.jokpas1.click:2096/?type=grpc&encryption=none&security=tls&sni=g5.jokpas1.click
+    
+❤️‍🔥 اهدا کننده : ⓢⓐⓔⓔⓓ
+    
+🆔 @V2rayCollectorDonate
+🤖 @V2rayCollectorBot
+🚀 کانفیگ اهدایی جدید
+    
+vless://61b8b4b2-9b12-4759-9a22-c011eda354c6@web.parspack.com:2095?path=%2F&security=none&encryption=none&host=platform.lampesht.top&type=ws#vpnplatform+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
+    
+❤️‍🔥 اهدا کننده : اختصاصی @vpnplatform
+
+حجم ۱۰۰ گیگ
+    
+🆔 @V2rayCollectorDonate
+🤖 @V2rayCollectorBot
+✔️ حجم نامحدود، زمان نامشخص   🔶 🔶 🔶
+✔️ لوکیشن آلمان 🇩🇪
+
+
+🦋 اکثر نت ها 🍏
+🔘Type: gRPC-TLS
+vless://b48ee0fe-db2c-4e32-9d57-ac70c88ffa8d@104.21.95.147:2053/?type=grpc&encryption=none&security=tls&sni=t5.funlifea.shop&alpn=http%2F1.1%2Ch2%2Ch3&fp=chrome#ALL+@ELiV2RAY
+➿➿➿➿
+🦋 اکثر نت ها 👾
+🔘Type: WS-TLS
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443/@ELiV2RAY-@ELiV2RAY-@ELiV2RAY-@ELiV2RAY?type=ws&encryption=none&host=3k.pureboy.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=3k.pureboy.eu.org&alpn=http%2F1.1&fp=chrome#WS-ALL+@ELiV2RAY
+
+
+👑@ELiV2RAY
