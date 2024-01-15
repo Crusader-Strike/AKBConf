@@ -961,3 +961,14 @@ vless://61b8b4b2-9b12-4759-9a22-c011eda354c6@web.parspack.com:2095?path=%2F&secu
     
 🆔 @V2rayCollectorDonate
 🤖 @V2rayCollectorBot
+🚀 کانفیگ اهدایی جدید
+    
+vless://61b8b4b2-9b12-4759-9a22-c011eda354c6@web.parspack.com:2095?path=%2F&security=none&encryption=none&host=plathsjform.lampesht.top&type=ws#vpnplatform+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
+    
+❤️‍🔥 اهدا کننده : اختصاصی @vpnplatform
+
+حجم ۱۰۰ گیگ
+    
+🆔 @V2rayCollectorDonate
+🤖 @V2rayCollectorBot
+✔️ حجم نامحدود، زمان نامشخص   🔶 🔶 🔶 ✔️ لوکیشن آلمان 🇩🇪   🦋 اکثر نت ها 🍏 🔘Type: gRPC-TLS vless://b48ee0fe-db2c-4e32-9d57-ac70c88ffa8d@104.21.95.147:2053/?type=grpc&encryption=none&security=tls&sni=t5.funlifea.shop&alpn=http%2F1.1%2Ch2%2Ch3&fp=chrome#ALL+@ELiV2RAY…
