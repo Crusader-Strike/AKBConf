@@ -888,3 +888,21 @@ vmess://eyJhZGQiOiJudnR5bC5jZmQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6
     
 🆔 @V2rayCollectorDonate
 🤖 @V2rayCollectorBot
+🚀 کانفیگ اهدایی جدید
+    
+vless://61b8b4b2-9b12-4759-9a22-c011eda354c6@web.parspack.com:2095?path=%2F&security=none&encryption=none&host=platform.lampesht.top&type=ws#vpnplatform+%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C
+    
+❤️‍🔥 اهدا کننده : اختصاصی @vpnplatform
+
+حجم ۱۰۰ گیگ
+    
+🆔 @V2rayCollectorDonate
+🤖 @V2rayCollectorBot
+🚀 کانفیگ اهدایی جدید
+    
+vless://a9281288-3659-4eea-9044-58291062ab6f@lengwi4.chipkayin.shop:2087/?type=grpc&encryption=none&security=tls&sni=lengwi4.chipkayin.shop
+    
+❤️‍🔥 اهدا کننده : ⓢⓐⓔⓔⓓ
+    
+🆔 @V2rayCollectorDonate
+🤖 @V2rayCollectorBot
