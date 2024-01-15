@@ -744,3 +744,19 @@ vless://3f45c368-cae5-40d7-befe-4cb6eaf5e3d8@162.159.248.118:2083/?type=grpc&enc
     
 🆔 @V2rayCollectorDonate
 🤖 @V2rayCollectorBot
+🚀 کانفیگ اهدایی جدید
+    
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@advailo.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#%40Arthas_vpn
+    
+❤️‍🔥 اهدا کننده : @Arthask
+    
+🆔 @V2rayCollectorDonate
+🤖 @V2rayCollectorBot
+🚀 کانفیگ اهدایی جدید
+    
+vless://d71e10f1-c9c6-4312-c729-53a782b499b5@104.18.12.130:443?path=%2F&security=tls&encryption=none&host=routers-aqua-assumptions-winning.trycloudflare.com&fp=chrome&type=ws&sni=routers-aqua-assumptions-winning.trycloudflare.com#join+telegram%3A%40Arthas_vpn
+    
+❤️‍🔥 اهدا کننده : @Arthas_vpn
+    
+🆔 @V2rayCollectorDonate
+🤖 @V2rayCollectorBot
