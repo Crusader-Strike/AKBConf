@@ -339,3 +339,6 @@ vless://f257ec03-a0cc-434c-ba33-2c201846a0d8@206.238.236.107:2082?path=%2F%3Fed%
 vless://12e2f5c5-2d24-4996-94f8-481b75028dcc@190.93.247.155:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=q.q.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&type=ws#AKB 🕊️ 720
 vless://9415365c-5593-4e8d-b96b-6ee44286e2b4@190.93.247.155:2087?path=%2F&security=tls&encryption=none&host=gmV2raybo.shhproxyfree.com&type=ws&sni=gmV2raybo.shhproxyfree.com#AKB 🕊️ 152
 trojan://telegram-id-directvpn@52.14.186.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#AKB 🕊️ 49
+trojan://telegram-id-privatevpns@18.168.65.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 464
+trojan://telegram-id-directvpn@13.51.127.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 160
+trojan://telegram-id-directvpn@16.16.190.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 469
