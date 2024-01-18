@@ -330,3 +330,12 @@ trojan://telegram-id-privatevpns@15.188.12.145:22222?security=tls&alpn=http/1.1&
 vless://f257ec03-a0cc-434c-ba33-2c201846a0d8@206.238.236.107:2082?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cdn-owmsmsj.mohammad420.sbs&type=ws#AKB 🕊️ 431
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQHNlcmllcy1hMi1tZS5zYW1hbmVoaGEuY286NDQz#AKB 🕊️ 382
 trojan://telegram-id-directvpn@54.218.11.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#AKB 🕊️ 966
+trojan://telegram-id-privatevpns@13.39.88.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 422
+trojan://telegram-id-privatevpns@18.132.103.123:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 106
+vless://12e2f5c5-2d24-4996-94f8-481b75028dcc@190.93.247.155:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=q.q.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&type=ws#AKB 🕊️ 736
+vless://e224f92f-eb57-4f8c-b944-5612232f92e2@178.62.241.13:2053?path=%2F&security=none&encryption=none&host=Zula.ir&type=ws#AKB 🕊️ 919
+vless://d2620727-c71f-41be-b45e-a61700c2f7e4@190.93.245.101:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cdn-owmsmsj.mohammad420.sbs&type=ws#AKB 🕊️ 248
+vless://f257ec03-a0cc-434c-ba33-2c201846a0d8@206.238.236.107:2082?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cdn-owmsmsj.mohammad420.sbs&type=ws#AKB 🕊️ 879
+vless://12e2f5c5-2d24-4996-94f8-481b75028dcc@190.93.247.155:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=q.q.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&type=ws#AKB 🕊️ 720
+vless://9415365c-5593-4e8d-b96b-6ee44286e2b4@190.93.247.155:2087?path=%2F&security=tls&encryption=none&host=gmV2raybo.shhproxyfree.com&type=ws&sni=gmV2raybo.shhproxyfree.com#AKB 🕊️ 152
+trojan://telegram-id-directvpn@52.14.186.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#AKB 🕊️ 49
