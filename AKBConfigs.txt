@@ -348,3 +348,4 @@ vless://218beb84-174c-47cc-8fa2-98d69bfcb3e7@190.93.247.155:80?path=%2F%3Fed%3D2
 vless://218beb84-174c-47cc-8fa2-98d69bfcb3e7@104.18.202.209:80?path=%2F%3F%40Archive_Android---%40Archive_Android---%40Archive_Android&security=none&encryption=none&host=q.q.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&type=ws#AKB 🕊️ 17
 trojan://telegram-id-directvpn@3.74.59.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 599
 trojan://telegram-id-directvpn@3.121.58.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#AKB 🕊️ 924
+vless://270f266a-63ba-406c-9087-28973ee7356c@195.201.6.97:330?security=reality&encryption=none&pbk=aKDCP8N-I_rt3CXtRc2TaLqHWGrZ48aDa6W9e7PblTs&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=dash.cloudflare.com#AKB 🕊️ 906
